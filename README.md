@@ -57,7 +57,7 @@ Note that the `template-body` parameter must include the `file://` prefix when r
 
 ## Questions?
 
-Please contact [@e_sela](https://twitter.com/e_sela) or raise an issue on this repo.
+Please contact [Eitan Sela](https://www.linkedin.com/in/eitan-sela/) or raise an issue on this repo.
 
 ## License
 
